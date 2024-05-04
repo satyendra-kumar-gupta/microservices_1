@@ -1,0 +1,12 @@
+package com.saty.dockerTest.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class TestDocker {
+	
+	public String getMessage() {
+		return 
+	}
+
+}

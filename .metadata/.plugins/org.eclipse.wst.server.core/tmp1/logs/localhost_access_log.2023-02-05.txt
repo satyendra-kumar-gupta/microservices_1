@@ -1,0 +1,10 @@
+127.0.0.1 - - [05/Feb/2023:01:42:17 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Feb/2023:01:43:05 +0530] "GET /Servlet_First_Project/ HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [05/Feb/2023:01:43:13 +0530] "GET /WelcomeServlet HTTP/1.1" 404 765
+0:0:0:0:0:0:0:1 - - [05/Feb/2023:01:44:14 +0530] "GET /Servlet_First_Project/ HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [05/Feb/2023:01:44:37 +0530] "GET /WelcomeServlet HTTP/1.1" 404 765
+127.0.0.1 - - [05/Feb/2023:01:45:00 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Feb/2023:01:45:00 +0530] "GET /Servlet_First_Project/ HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [05/Feb/2023:01:45:18 +0530] "GET /WelcomeServlet HTTP/1.1" 404 765
+0:0:0:0:0:0:0:1 - - [05/Feb/2023:01:45:47 +0530] "GET /Servlet_First_Project/WelcomeServlet HTTP/1.1" 200 16
+0:0:0:0:0:0:0:1 - - [05/Feb/2023:01:47:27 +0530] "GET /Servlet_First_Project/WelcomeServlet HTTP/1.1" 200 17

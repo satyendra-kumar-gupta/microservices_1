@@ -1,0 +1,5 @@
+package com.saty.K8s.controller;
+
+public class K8SDemo {
+
+}

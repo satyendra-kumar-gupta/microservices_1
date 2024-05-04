@@ -1,0 +1,13 @@
+package com.saty.K8s.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class K8SDemo {
+	
+	@GetMapping("/getK*s")
+	public String getDemoK8s() {	
+		return "Spring boot k8s demo successfull";
+	}
+}
